@@ -1,0 +1,85 @@
+body{
+  background-color: #d3dbff;
+  margin: 0;
+  text-align: center;
+  font-family: Papyrus,fantasy;
+  font-weight: 600;
+
+}
+h1{
+   font-family: 'Indie Flower', cursive;
+   display: inline-block;
+   position: relative;
+   font-size: 90px;
+}
+.container3 h3{
+  font-family:'Lemonada', cursive;
+  font-weight:normal;
+}
+.container3 p{
+  font-family:'Lemonada', cursive;
+  font-weight:normal;
+}
+.title{
+  margin:0 auto 0 auto;
+  color: #66BFBF;
+
+}
+
+.top-container{
+  padding-top: 100px;
+  width: 100%;
+}
+.top-container:hover{
+    background-color: #62d2a2;
+}
+.top-container:hover .title{
+
+  color: grey;
+}
+.cloud2{
+position: absolute;
+}
+.cloud1{
+  position: absolute;
+  left: 250px;
+  bottom: 60px;
+}
+.middle-container{
+  margin: 0 auto;
+}
+.profile-img{
+  height: 100px;
+}
+.profile-img:hover{
+  visibility: hidden;
+}
+.profile:hover{
+  background-color: #6f4a8e;
+}
+.skills:hover{
+background-color: #5fdde5;
+}
+.computer{
+  width: 8%;
+}
+.books{
+  background-color: #ffc1f3;
+  margin: 0 auto;
+  width: 50%;
+  padding: 50px 0;
+  word-spacing: 3px;
+}
+.img-book1{
+  float: left;
+  margin-right: 15px;
+  width: 15%;
+}
+.img-book2{
+  float: right;
+  margin-left: 15px;
+  padding-top: 30px;
+}
+.bottom-container:hover{
+background-color: #b83b5e;
+}

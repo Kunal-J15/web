@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  position: relative;
+}
+.red{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 400px;
+  background-color: red;
+}
+.orenge{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  background-color: orange;
+  bottom: 200px;
+}
+.yellow{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  background-color: yellow;
+  bottom: 400px;
+  left: 200px;
+}
+.br{
+  height: 50px;
+  background-color: #F3F2;
+}
+/********Absolute Positioning*/
+.ared{
+  background-color: red;
+  height:100px;
+  width: 100px;
+  position: absolute;
+  top: 850px;
+  left: 200px;
+
+}
+.ayellow{
+  background-color: yellow;
+  height:100px;
+  width: 100px;
+  position: absolute;
+  top:650px;
+}
+.aorange{
+  background-color: orange;
+  height:100px;
+  width: 100px;
+  position: absolute;
+  top: 750px;
+  left: 100px;
+}
